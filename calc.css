@@ -1,0 +1,34 @@
+html {
+  margin: 1px;
+  padding: 1px;
+}
+body {
+  background-color: rgb(202, 195, 195);
+}
+.content {
+  width: 360px;
+  height: 12px;
+}
+input {
+  width: 80px;
+  height: 50px;
+  background: #000;
+  color: aliceblue;
+  border: solid gray;
+  box-shadow: 10px 10px 5px gray;
+  cursor: pointer;
+}
+input:hover {
+  background-color: rgba(179, 170, 170, 0.64);
+}
+#txt {
+  width: 325px;
+  height: 50px;
+  background-color: #000;
+  text-align: right;
+  color: aliceblue;
+  font-size: 2rem;
+}
+.operator {
+  color: #f0df45;
+}
